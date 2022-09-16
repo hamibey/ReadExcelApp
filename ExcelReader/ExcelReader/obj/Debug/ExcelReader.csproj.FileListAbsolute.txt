@@ -1,0 +1,12 @@
+C:\Users\Hami\Desktop\C#\ExcelReader\ExcelReader\bin\Debug\ExcelReader.exe.config
+C:\Users\Hami\Desktop\C#\ExcelReader\ExcelReader\bin\Debug\ExcelReader.exe
+C:\Users\Hami\Desktop\C#\ExcelReader\ExcelReader\bin\Debug\ExcelReader.pdb
+C:\Users\Hami\Desktop\C#\ExcelReader\ExcelReader\obj\Debug\ExcelReader.csproj.AssemblyReference.cache
+C:\Users\Hami\Desktop\C#\ExcelReader\ExcelReader\obj\Debug\ExcelReader.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hami\Desktop\C#\ExcelReader\ExcelReader\obj\Debug\ExcelReader.csproj.ResolveComReference.cache
+C:\Users\Hami\Desktop\C#\ExcelReader\ExcelReader\obj\Debug\ExcelReader.Form1.resources
+C:\Users\Hami\Desktop\C#\ExcelReader\ExcelReader\obj\Debug\ExcelReader.Properties.Resources.resources
+C:\Users\Hami\Desktop\C#\ExcelReader\ExcelReader\obj\Debug\ExcelReader.csproj.GenerateResource.cache
+C:\Users\Hami\Desktop\C#\ExcelReader\ExcelReader\obj\Debug\ExcelReader.csproj.CoreCompileInputs.cache
+C:\Users\Hami\Desktop\C#\ExcelReader\ExcelReader\obj\Debug\ExcelReader.exe
+C:\Users\Hami\Desktop\C#\ExcelReader\ExcelReader\obj\Debug\ExcelReader.pdb
